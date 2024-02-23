@@ -8,13 +8,5 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+CYB 330 Fundamentals of Networking (Fall 2023, Fall 2024)
+CYB 404/504 IoT Security (Spring 2024)
