@@ -15,6 +15,9 @@ author_profile: true
 
 ### PhD Committee Member
 
+* ABC
+* XYZ
+
 ## Former Students
 
 ### PhD
