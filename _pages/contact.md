@@ -5,7 +5,7 @@ title: "Contact Info"
 
 ## Office Location
 
-Janssen Engineering Building 
+Janssen Engineering Building
 JEB235
 Department of Computer Science  
 University of Idaho  
